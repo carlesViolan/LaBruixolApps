@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/compras.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/compras.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/hortaguinardo.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/hortaguinardo.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/logobruixoappblanc.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/logobruixoappblanc.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/gracia.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/gracia.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/puntmap.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/puntmap.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/logobruixolappgran.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/logobruixolappgran.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_button_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_media_play_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_media_play_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_close_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/11.0.4/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/deporte.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/deporte.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/copas.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/copas.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/bar.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/bar.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/foto_epsg.jpg",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/foto_epsg.jpg"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_button_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/otros.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/otros.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/educacion.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/educacion.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/info.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/info.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/url.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/url.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/santsmonjuic.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/santsmonjuic.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/sarriasantgervasi.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/sarriasantgervasi.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connected_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/naturaleza.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/naturaleza.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/telefon.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/telefon.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/lescorts.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/lescorts.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/logobruixoappvermell.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/logobruixoappvermell.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_media_pause_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_group_expand.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/calendar.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/calendar.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/localitzagoogle.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/localitzagoogle.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/reloj.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/reloj.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/gasolinera.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/gasolinera.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_group_collapse.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_button_connecting_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/noubarris.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/noubarris.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/restaurante.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/restaurante.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/espectaculos.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/espectaculos.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/eixample.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/eixample.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/hotel.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/hotel.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/santandreu.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/santandreu.png"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/res/merged/debug/drawable/santmarti.png",
+        "source": "/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/src/main/res/drawable/santmarti.png"
+    }
+]

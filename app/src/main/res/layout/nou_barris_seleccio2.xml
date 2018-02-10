@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/vermell"
+        android:weightSum="4"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:padding="5dp"> <!-- to show what the parent is -->
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Llistat Entitats"
+                android:id="@+id/btnllistatentitats"
+                android:layout_marginTop="100px"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Localització Entitats"
+                android:id="@+id/localitzacioentitats"
+                android:layout_marginBottom="100px"/>
+
+
+    <ImageView
+        android:src="@drawable/logobruixoappblanc"
+        android:textColor="@color/blanc"
+        android:layout_width="match_parent"
+        android:layout_height="217dp"
+        android:id="@+id/textView3"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textAlignment="center" />
+    />
+            />
+    </LinearLayout>

@@ -1,0 +1,7 @@
+#Fri Jan 12 19:36:28 CET 2018
+base.0=/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a71f458278edc309c691951f8c702e1283510ee6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29f66c7afd157ed84b694c562072646466fb097e/classes.dex
+base.1=/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29f66c7afd157ed84b694c562072646466fb097e
+file.0=/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a71f458278edc309c691951f8c702e1283510ee6/classes.dex

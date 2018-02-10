@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LaBruixolApp</string>
+    <string name="title_activity_maps">LaBruixolApp</string>
+
+<!--que faig si xml-->
+    <string name="Què_faig_si">Què faig si...?"</string>
+    <string name="Em_vull_separar_o_divorciar">Em vull separar o divorciar</string>
+    <string name="Vull_informacio_sobre_guardia_i_custodia">Vull informació sobre \n guàrdia i custòdia</string>
+    <string name="He_vist_una_agressio_masclista_a_una_dona_o_un_infant">He vist una agressió masclista \n a una dona o un infant</string>
+    <string name="Necessito_assessorament_sobre_anticonceptius_o_salut_sexual">Necessito assessorament \n sobre anticonceptius o salut sexual</string>
+    <string name="A_on_puc_adreçarme">...A on puc \n adreçar-me?</string>
+
+<!--escull districte xml-->
+    <string name="escull_districte">Escull districte</string>
+    <string name="eixample">Eixample</string>
+    <string name="gracia">Gràcia</string>
+    <string name="noubarris">Nou Barris</string>
+    <string name="hortaguinardo">Horta Guinardó</string>
+    <string name="lescorts">Les Corts</string>
+    <string name="santandreu">Sant Andreu</string>
+
+</resources>

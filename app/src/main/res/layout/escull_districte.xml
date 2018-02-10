@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/vermell">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow android:background="@color/blanc"
+            android:padding="20px"
+            android:layout_marginBottom="10px">
+
+            <ImageView android:id="@+id/foto"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="@string/escull_districte"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/esculldistricte"
+                android:textColor="#acadaf"
+                android:textSize="35dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow
+            android:padding="20px"
+            android:background="@color/blanc"
+            android:layout_marginBottom="5px">
+            <ImageView android:id="@+id/foto1"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="@string/eixample"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/eixample"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow
+            android:padding="20px"
+            android:layout_marginBottom="5px"
+            android:background="@color/blanc">
+            <ImageView android:id="@+id/foto2"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="@string/gracia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/gracia"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow android:background="@color/blanc"
+            android:layout_marginBottom="5px"
+            android:padding="20px">
+            <ImageView android:id="@+id/foto3"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="@string/noubarris"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/noubarris"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow android:background="@color/blanc"
+            android:layout_marginBottom="5px"
+            android:padding="20px">
+            <ImageView android:id="@+id/foto4"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="@string/hortaguinardo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/hortaguinardo"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow android:background="@color/blanc"
+            android:layout_marginBottom="5px"
+            android:padding="20px">
+            <ImageView android:id="@+id/foto5"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="@string/lescorts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/lescorts"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow><TableRow android:background="@color/blanc"
+        android:layout_marginBottom="5px"
+        android:padding="20px">
+        <ImageView android:id="@+id/foto7"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/logobruixoappvermell"
+            android:contentDescription="fotografia"/>
+
+        <TextView
+            android:text="@string/santandreu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/santandreu"
+            android:textAppearance="@color/colorPrimary"
+            android:textColor="#8e8e8f"
+            android:textSize="20dp"
+            android:gravity="left"/>
+    </TableRow>
+        <TableRow android:background="@color/blanc"
+            android:layout_marginBottom="5px"
+            android:padding="20px">
+            <ImageView android:id="@+id/foto6"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="Sants Montjuic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/santsmontjuic"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow android:background="@color/blanc"
+            android:layout_marginBottom="5px"
+            android:padding="20px">
+            <ImageView android:id="@+id/foto8"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="Sarrià"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sarria"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+        <TableRow android:background="@color/blanc"
+            android:layout_marginBottom="5px"
+            android:padding="20px">
+            <ImageView android:id="@+id/foto9"
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/logobruixoappvermell"
+                android:contentDescription="fotografia"/>
+
+            <TextView
+                android:text="Ciutat vella"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ciutatvella"
+                android:textAppearance="@color/colorPrimary"
+                android:textColor="#8e8e8f"
+                android:textSize="20dp"
+                android:gravity="left"/>
+        </TableRow>
+
+
+
+
+
+
+    </TableLayout>
+
+</ScrollView>

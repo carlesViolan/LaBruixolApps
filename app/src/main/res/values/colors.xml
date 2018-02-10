@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DF0101</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#0b0b0b</color>
+    <color name="verdClar">#32CD32</color>
+    <color name="blanc">#FFFFFF</color>
+    <color name="vermell">#DF0101</color>
+</resources>

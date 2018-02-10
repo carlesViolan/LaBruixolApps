@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+    <TextView
+        android:text="Què faig si...?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textAppearance="@color/colorPrimary"
+        android:textSize="40dp"/>
+
+    <Button
+        android:text="Inici"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonVolverIni" />
+
+
+    <Button
+        android:text="Em vull separar o divorciar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listaprimera"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="17dp" />
+
+    <Button
+        android:text="Vull informació sobre guàrdia i custòdia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mapesGoogle"
+        android:onClick="Assesorament2">
+
+    </Button>
+
+    <Button
+        android:text="He vist una agressió masclista a una dona o un infant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Assesorament3">
+    </Button>
+
+
+    <Button
+        android:text="Sóc dona immigrada i necessito assessorament legal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Assesorament5"></Button>
+
+
+    <Button
+        android:text="Necessito assessorament sobre anticonceptius o salut sexual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Assesorament4">
+
+    </Button>
+
+
+
+
+</LinearLayout>

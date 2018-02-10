@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+<RelativeLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView android:id="@+id/foto"
+        android:layout_width="?android:attr/listPreferredItemHeight"
+        android:layout_height="?android:attr/listPreferredItemHeight"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/logobruixoappvermell"
+        android:contentDescription="fotografia"/>
+
+    <TextView
+        android:text="Què faig si...?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/quefaigsi"
+        android:textAppearance="@color/vermell"
+        android:textColor="#acadaf"
+        android:textSize="40dp"
+        android:gravity="right"/>
+
+</RelativeLayout>
+
+
+    <Button
+        android:text="Em vull separar o divorciar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Assesorament1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="17dp" />
+
+    <Button
+        android:text="Vull informació sobre guàrdia i custòdia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Assesorament2"
+        android:onClick="Assesorament2">
+
+    </Button>
+
+    <Button
+        android:text="He vist una agressió masclista \n a una dona o un infant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Assesorament3"
+        android:onClick="Assesorament3">
+    </Button>
+
+    <Button
+        android:text="Necessito assessorament sobre anticonceptius o salut sexual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Assesorament4"
+        android:onClick="Assesorament4">
+
+    </Button>
+
+    <Button
+        android:text="Sóc dona immigrada i necessito assessorament legal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Assesorament5"
+        android:onClick="Assesorament5"></Button>
+
+    <Button
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:onClick="">
+
+    </Button>
+    <TextView
+        android:text="...A on puc adreçar-me?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewEntitats"
+        android:textAppearance="@color/colorAccent"
+        android:background="@color/vermell"
+        android:textSize="30dp"/>
+
+    <Button
+        android:text="Inici"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonVolverIni" />
+
+</LinearLayout>

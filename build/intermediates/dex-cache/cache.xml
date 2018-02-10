@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-11.0.4_5d356f89999c4817e1dd108391ae7e7e17c5aa58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-11.0.4_d58d0d51b386e3fec29b51f88273dba7431c4404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-11.0.4_834de6049bee3c68862d608588c53c81cf2de040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-11.0.4_0ca2634327154e315c44b019c7e1405378caaf09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-11.0.4_19400c416b03899ef86c4284b7aa7b70065421eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_1eebbd009a0270f05f230217a89cf8f9491c91c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-11.0.4_56318287e26fca0d0e9d237eb9ece68fc3974e50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_78336b30f61d5eaba7bd6773e942635fc7a257c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_f1ff12137e16a2fc0e8863af6cb24a52845989dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-11.0.4_0f6faccb36ea3e9119ef78a22dd3a3b22c8b31e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-11.0.4_be1e2367ce2c713eb0e572f02a04a441981fc129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-11.0.4_8b9095d7e40bff222fed4ebb6a789050b26c6238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-11.0.4_25a2c7d5e2f460fcb533e31ca7ee22cc77b67e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-11.0.4_ac713f46a417332cdcb74cded6abf6f000ba226e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-11.0.4_a2e7c456e2e351032b26d27f3ef9e900e810c3e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d98b9f9924ca0304bac057342742b47051d76342">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a71f458278edc309c691951f8c702e1283510ee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-11.0.4_a45c3692724f3beb89774b5fda5bd227eec43643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-11.0.4_194e5f6931e5d86174e0f098a0805d867978067b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-11.0.4_7842ea642e55b9d334b3b6503fd3d5f95ad8ccf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-11.0.4_1bdf6c05f0be12e54e0ae22eb3354b3e7c706222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.2.0_7defe9fd1d3ce7ca6a58c6982a896c6dc23fc245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-common-11.0.4_35e0feb629ddd806cdd3178d85dbd948c1ef050d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-11.0.4_83c3c7d92f471ba2f2126ddbd34dfc9106bedce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-11.0.4_4747d666cc05191280ff0acb5aaabf060e7d4ba6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-11.0.4_64626b88e618abc2e3e59c52db7fca3852c06402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-11.0.4_d62fe8c9cf4c78b55832def1dfc33905fb2ab05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-11.0.4_b1c2a88ee1919e01193992e54d39379e9b75879f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-11.0.4_45ad3a7e8c1049f3b6a4ff3719acacbe9464d05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-11.0.4_7884bada64b91a5773636cb5cabe59e6fb0cd8f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-11.0.4_7248570aae48656103395a086b195d401879d859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-11.0.4_345ac504a281218883bc2992c4200180ae7db445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_6a1e23e5af2f2992a1e300f2168a82c73b093ff5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-11.0.4_0891aeb69e39755058c293af163ea670a9520b18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-11.0.4_79506858e52f6ffe973063b2502209eab0bc5039/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_e7f0f3bccf42328c110785b96cc50082d0f4e613/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-11.0.4_035ffd893266c968a444b30c09fa20c228d27def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_51261463483208edb9f2e109b8f08b9ef0af4a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-11.0.4_79d4ffb613ee531e9b5415b451365846d2ce2d1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-11.0.4_6d7b0935847b2d8164138ba0ec80743e3031fdcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-25.2.0_6e6a30130398a15ff214fe7264beeade3ff2c4fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-11.0.4_bf49e3089c7c5b59cf7bc21668d3c7483ba6d1db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-11.0.4_aa2ee52319f74bba8de43c502af6cf3a5d3698e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-11.0.4_b4005b2646fe97fb0d8ca347f9b7b501db0687d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-api-phone-11.0.4_9db7dae58efcd480145194b24e363e27adf3b9f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_7baa81a7e83a90133284f3b91ac69df3bc653a53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-11.0.4_f30a774795b366cb789a04a147fd5f532c305ab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-11.0.4_140551046232181f8f6b56f1a7b19d56d2b22de0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-11.0.4_bb89e846419f739ad4177162fff83f418c5739e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_10603e7991c129d49fa400cc2f1e03db63536c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-11.0.4_0d83e4f96558d54dacbbcf548c6376debc8e4159/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-11.0.4_1c4d83ec430280f3319c32845d5e553c6cbfe5e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-11.0.4_a97ca525b64551268c458ad27e7d83f3341f5aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-11.0.4_bffd98ba8e47236e9e3bdafb8d7bf5ad0de350c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-dynamic-links-11.0.4_888be0ceaec83acc665255ee3001daf071d8aab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-11.0.4_f5890d9ecbcb0c8da057383f23e62030c03975b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-11.0.4_75b2b506450e823be908589bc7ef8b17a5475c86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-11.0.4_a5cf344ae48e7e03cf84363a1302fdcf00c9f3b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-11.0.4_35f27131ce27b63a6d9be7ff0b8a985bf0e04457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_3b0fd078822f62f852c930b2b032c2e91c7c0449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-11.0.4_707ff04ac7901c50293e884f9db58545c49f75a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dc7d65cdfffbaebf9aaa201ac377753a3874d3e">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29f66c7afd157ed84b694c562072646466fb097e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_721aa77f75d0466b5ee529b41a847f83b8907d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-11.0.4_71444eb6f0ae78fdfc9222a443cf894ef4088024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_ef37ba245246916a4a87e16251203cada026d072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-11.0.4_b35eff3dbb0307242ad5b6933de949f27b7be30c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="/Users/carlesviolan/AndroidStudioProjects/ProvaGoogleMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.3.1_c2775ecd32838df1c10c1612f00146dead38e4f1/classes.dex" />
+    </item>
+
+</items>
